@@ -5,12 +5,12 @@ body{
     height: 50vh;
     display: grid;
     font-family:sans-serif;
-    background-image: linear-gradient(45deg,#515490,#b45353);
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
 }
 .container{
     width: 100vh;
     height:70vh;
-    background-color: floralwhite;
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
     text-align: center;
     color: black;
 }
