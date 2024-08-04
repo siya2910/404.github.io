@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 40vh;
+    width: 70vh;
+    height: 50vh;
+    display: grid;
+    font-family:sans-serif;
+    background-image: linear-gradient(45deg,#515490,#b45353);
+}
+.container{
+    width: 100vh;
+    height:70vh;
+    background-color: floralwhite;
+    text-align: center;
+    color: black;
+}
+.container h1{
+    font-size: 160px;
+    margin: 0;
+    font-weight: 900;
+    letter-spacing: 20px;
+}
+.container h2{
+    margin: 0;
+    text-align:center;
+} 
